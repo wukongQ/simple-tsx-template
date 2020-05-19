@@ -13,7 +13,7 @@ module.exports = merge(Base, {
   resolve: {},
   devServer: {
     host: 'localhost',
-    port: 8852,
+    port: 8802,
     open: true,
     hotOnly: true,
     inline: true,
